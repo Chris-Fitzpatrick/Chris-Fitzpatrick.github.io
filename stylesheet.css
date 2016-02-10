@@ -4,5 +4,9 @@ h1{
 
 img {
         height: 200px;
+        align: center;
+}
 
+l {
+        font-family: Century Gothic, sans-serif;
 }
